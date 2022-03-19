@@ -1,0 +1,16 @@
+PODS:
+  - iOSDeviceOpinion (0.1.0)
+
+DEPENDENCIES:
+  - iOSDeviceOpinion (from `../`)
+
+EXTERNAL SOURCES:
+  iOSDeviceOpinion:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  iOSDeviceOpinion: 75611667ac64f96add4f6cb37ef5e98f9950a7ad
+
+PODFILE CHECKSUM: 679cfd1f0f63c3c452a0884ab13420e4c627ec7d
+
+COCOAPODS: 1.9.3

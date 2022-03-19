@@ -1,0 +1,22 @@
+{
+  "name": "iOSDeviceOpinion",
+  "version": "0.1.0",
+  "summary": "A short description of iOSDeviceOpinion.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/tengtengzz/iOSDeviceOpinion",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tengtengzz": "1107326411@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/tengtengzz/iOSDeviceOpinion.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "iOSDeviceOpinion/Classes/**/*"
+}

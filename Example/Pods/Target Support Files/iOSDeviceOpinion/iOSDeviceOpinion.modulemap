@@ -1,0 +1,6 @@
+framework module iOSDeviceOpinion {
+  umbrella header "iOSDeviceOpinion-umbrella.h"
+
+  export *
+  module * { export * }
+}
